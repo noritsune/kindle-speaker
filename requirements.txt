@@ -1,3 +1,4 @@
 pytesseract
 Pillow
 pyautogui
+pywinctl
